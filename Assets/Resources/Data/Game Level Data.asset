@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb97d411f1f4a80408122c5fb6078f46, type: 3}
+  m_Name: Game Level Data
+  m_EditorClassIdentifier: 
+  data:
+  - categoryName: Food
+    boardData:
+    - {fileID: 11400000, guid: 43fff6b73bb87654f98c453ef8f92f96, type: 2}
+  - categoryName: Animals
+    boardData:
+    - {fileID: 11400000, guid: d2d1a71f2c6c7a74e9eb49e3156c8c07, type: 2}
+    - {fileID: 11400000, guid: 96729e839c7cd514696d052986cb10a8, type: 2}
+    - {fileID: 11400000, guid: f5323145d75ee8649a303c5f50e295e9, type: 2}
+    - {fileID: 11400000, guid: 0998b0fce6329da4e8c5823af3ac6a65, type: 2}
+  - categoryName: Sport
+    boardData:
+    - {fileID: 11400000, guid: a81c708c6e6616a4c8e46c2f9f5ffe49, type: 2}
+    - {fileID: 11400000, guid: d382d73e1d884894ca98822ab210e383, type: 2}
+    - {fileID: 11400000, guid: 0da40418b2c66cd4ebb58613d60ceb70, type: 2}
+    - {fileID: 11400000, guid: 6ed69cda94ff2d64cbe979d2c0dac575, type: 2}
+  - categoryName: Hobbies
+    boardData:
+    - {fileID: 11400000, guid: e6d435d909d5c774daa1ada49cc4c177, type: 2}
+    - {fileID: 11400000, guid: 5f756bfc8cfce524fb0f8a2344e20e84, type: 2}
+    - {fileID: 11400000, guid: f96cec3933523d04bbbf26cf5ac5c8ff, type: 2}
+    - {fileID: 11400000, guid: cb34c9a1e6fb91a46ae7d6bcba68ec3c, type: 2}
+  - categoryName: Work
+    boardData:
+    - {fileID: 11400000, guid: e6ed6053ac9af5e4482a3b576d2cacd5, type: 2}
+    - {fileID: 11400000, guid: 5a938a262a9c9bc4b880a124f7623f9a, type: 2}
+    - {fileID: 11400000, guid: 6605e84ba1783664d9eb1c44f5566b99, type: 2}
+    - {fileID: 11400000, guid: 9aeed5c770c76d645bf503a8fc316913, type: 2}
+  - categoryName: Countries
+    boardData:
+    - {fileID: 11400000, guid: b3d07673224c0be4eb48aae11568b1cf, type: 2}
+    - {fileID: 11400000, guid: 5312538a8fd6c9249990e4379cd020c4, type: 2}
+    - {fileID: 11400000, guid: a569b8ebfe607264e8397a0afca9b0ec, type: 2}
+    - {fileID: 11400000, guid: b0c75f3137b20434eb67d1c693ba1797, type: 2}

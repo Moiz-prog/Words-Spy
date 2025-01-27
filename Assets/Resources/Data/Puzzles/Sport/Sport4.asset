@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e1f9586172a4574da98c60cc3cae32e, type: 3}
+  m_Name: Sport4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - H
+    - A
+    - N
+    - D
+    - B
+    - A
+    - L
+    - L
+    - S
+    - R
+  - Size: 10
+    Row:
+    - A
+    - Q
+    - W
+    - V
+    - I
+    - S
+    - D
+    - C
+    - H
+    - D
+  - Size: 10
+    Row:
+    - R
+    - O
+    - R
+    - Q
+    - F
+    - W
+    - V
+    - Y
+    - O
+    - A
+  - Size: 10
+    Row:
+    - Q
+    - C
+    - U
+    - R
+    - L
+    - I
+    - N
+    - G
+    - O
+    - R
+  - Size: 10
+    Row:
+    - Q
+    - G
+    - A
+    - R
+    - N
+    - M
+    - A
+    - I
+    - T
+    - T
+  - Size: 10
+    Row:
+    - T
+    - Y
+    - N
+    - J
+    - H
+    - M
+    - C
+    - N
+    - I
+    - S
+  - Size: 10
+    Row:
+    - Q
+    - M
+    - O
+    - B
+    - D
+    - I
+    - V
+    - I
+    - N
+    - G
+  - Size: 10
+    Row:
+    - S
+    - U
+    - R
+    - F
+    - I
+    - N
+    - G
+    - Y
+    - G
+    - E
+  - Size: 10
+    Row:
+    - C
+    - A
+    - V
+    - I
+    - N
+    - G
+    - L
+    - D
+    - L
+    - A
+  - Size: 10
+    Row:
+    - P
+    - A
+    - R
+    - K
+    - O
+    - U
+    - R
+    - S
+    - E
+    - Z
+  SearchWords:
+  - Word: CURLING
+  - Word: SWIMMING
+  - Word: DIVING
+  - Word: SURFING
+  - Word: SHOOTING
+  - Word: HANDBALL
+  - Word: PARKOUR
+  - Word: DARTS
+  - Word: CAVING

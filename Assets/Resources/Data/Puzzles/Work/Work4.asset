@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e1f9586172a4574da98c60cc3cae32e, type: 3}
+  m_Name: Work4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - J
+    - U
+    - D
+    - G
+    - E
+    - P
+    - Z
+    - T
+    - R
+    - A
+  - Size: 10
+    Row:
+    - F
+    - I
+    - F
+    - L
+    - O
+    - R
+    - I
+    - S
+    - T
+    - U
+  - Size: 10
+    Row:
+    - A
+    - M
+    - C
+    - E
+    - D
+    - I
+    - T
+    - O
+    - R
+    - D
+  - Size: 10
+    Row:
+    - R
+    - I
+    - M
+    - T
+    - M
+    - N
+    - Y
+    - E
+    - O
+    - I
+  - Size: 10
+    Row:
+    - M
+    - N
+    - N
+    - F
+    - A
+    - C
+    - Y
+    - T
+    - O
+    - T
+  - Size: 10
+    Row:
+    - E
+    - E
+    - J
+    - C
+    - G
+    - I
+    - S
+    - M
+    - F
+    - O
+  - Size: 10
+    Row:
+    - R
+    - R
+    - T
+    - W
+    - Q
+    - P
+    - L
+    - B
+    - E
+    - R
+  - Size: 10
+    Row:
+    - T
+    - O
+    - B
+    - C
+    - Q
+    - A
+    - W
+    - O
+    - R
+    - I
+  - Size: 10
+    Row:
+    - R
+    - S
+    - A
+    - H
+    - W
+    - L
+    - M
+    - O
+    - R
+    - I
+  - Size: 10
+    Row:
+    - W
+    - E
+    - L
+    - D
+    - E
+    - R
+    - G
+    - Z
+    - Q
+    - G
+  SearchWords:
+  - Word: PRINCIPAL
+  - Word: AUDITOR
+  - Word: EDITOR
+  - Word: WELDER
+  - Word: TAILOR
+  - Word: ROOFER
+  - Word: JUDGE
+  - Word: ACTOR
+  - Word: FARMER
+  - Word: MINER
+  - Word: FLORIST

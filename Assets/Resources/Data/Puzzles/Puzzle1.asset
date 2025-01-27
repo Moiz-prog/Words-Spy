@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e1f9586172a4574da98c60cc3cae32e, type: 3}
+  m_Name: Puzzle1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 0
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - A
+    - A
+    - M
+    - K
+    - E
+    - B
+    - C
+    - V
+    - D
+    - C
+  - Size: 10
+    Row:
+    - V
+    - G
+    - T
+    - Q
+    - W
+    - H
+    - A
+    - T
+    - K
+    - G
+  - Size: 10
+    Row:
+    - T
+    - R
+    - B
+    - Z
+    - O
+    - D
+    - T
+    - K
+    - K
+    - R
+  - Size: 10
+    Row:
+    - Q
+    - S
+    - W
+    - O
+    - Y
+    - L
+    - E
+    - Z
+    - M
+    - U
+  - Size: 10
+    Row:
+    - Q
+    - C
+    - F
+    - Z
+    - A
+    - A
+    - X
+    - Y
+    - K
+    - M
+  - Size: 10
+    Row:
+    - N
+    - O
+    - C
+    - U
+    - C
+    - L
+    - O
+    - N
+    - Z
+    - D
+  - Size: 10
+    Row:
+    - F
+    - Y
+    - X
+    - N
+    - L
+    - J
+    - J
+    - Y
+    - Z
+    - G
+  - Size: 10
+    Row:
+    - B
+    - F
+    - I
+    - S
+    - Y
+    - A
+    - D
+    - Z
+    - G
+    - V
+  - Size: 10
+    Row:
+    - F
+    - N
+    - L
+    - N
+    - F
+    - B
+    - W
+    - F
+    - N
+    - L
+  - Size: 10
+    Row:
+    - P
+    - R
+    - A
+    - H
+    - G
+    - H
+    - K
+    - I
+    - E
+    - A
+  SearchWords:
+  - Word: ADFA
+  - Word: SDADS
+  - Word: ADADA
+  - Word: ADADA

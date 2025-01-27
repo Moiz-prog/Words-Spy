@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e1f9586172a4574da98c60cc3cae32e, type: 3}
+  m_Name: Hobbies4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - F
+    - E
+    - L
+    - T
+    - I
+    - N
+    - G
+    - J
+    - S
+    - E
+  - Size: 10
+    Row:
+    - T
+    - Q
+    - I
+    - O
+    - L
+    - J
+    - Z
+    - A
+    - C
+    - V
+  - Size: 10
+    Row:
+    - A
+    - R
+    - S
+    - V
+    - S
+    - B
+    - N
+    - N
+    - O
+    - C
+  - Size: 10
+    Row:
+    - P
+    - W
+    - T
+    - Y
+    - K
+    - D
+    - F
+    - T
+    - S
+    - Y
+  - Size: 10
+    Row:
+    - E
+    - M
+    - E
+    - N
+    - A
+    - L
+    - D
+    - L
+    - P
+    - C
+  - Size: 10
+    Row:
+    - A
+    - V
+    - N
+    - R
+    - N
+    - M
+    - U
+    - S
+    - L
+    - L
+  - Size: 10
+    Row:
+    - R
+    - K
+    - T
+    - F
+    - S
+    - D
+    - E
+    - N
+    - A
+    - I
+  - Size: 10
+    Row:
+    - T
+    - Y
+    - D
+    - W
+    - O
+    - X
+    - N
+    - L
+    - Y
+    - N
+  - Size: 10
+    Row:
+    - M
+    - I
+    - X
+    - O
+    - L
+    - O
+    - G
+    - Y
+    - H
+    - G
+  - Size: 10
+    Row:
+    - Z
+    - L
+    - S
+    - A
+    - T
+    - Z
+    - R
+    - Y
+    - J
+    - A
+  SearchWords:
+  - Word: SANDART
+  - Word: FELTING
+  - Word: CYCLING
+  - Word: MIXOLOGY
+  - Word: COSPLAY
+  - Word: COSPLAY
+  - Word: TAPEART
+  - Word: LISTEN
+  - Word: LUDO

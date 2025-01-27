@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e1f9586172a4574da98c60cc3cae32e, type: 3}
+  m_Name: Animals4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - C
+    - J
+    - F
+    - T
+    - X
+    - D
+    - V
+    - C
+    - O
+    - K
+  - Size: 10
+    Row:
+    - O
+    - Z
+    - R
+    - U
+    - P
+    - W
+    - T
+    - R
+    - A
+    - L
+  - Size: 10
+    Row:
+    - B
+    - V
+    - O
+    - W
+    - Y
+    - A
+    - W
+    - O
+    - H
+    - Z
+  - Size: 10
+    Row:
+    - R
+    - V
+    - G
+    - T
+    - E
+    - S
+    - P
+    - C
+    - L
+    - L
+  - Size: 10
+    Row:
+    - A
+    - S
+    - H
+    - R
+    - U
+    - P
+    - K
+    - O
+    - Y
+    - B
+  - Size: 10
+    Row:
+    - G
+    - R
+    - X
+    - H
+    - W
+    - R
+    - T
+    - D
+    - I
+    - H
+  - Size: 10
+    Row:
+    - I
+    - G
+    - U
+    - A
+    - N
+    - A
+    - T
+    - I
+    - Q
+    - Q
+  - Size: 10
+    Row:
+    - O
+    - X
+    - D
+    - R
+    - A
+    - Z
+    - I
+    - L
+    - F
+    - R
+  - Size: 10
+    Row:
+    - T
+    - D
+    - G
+    - Z
+    - U
+    - N
+    - C
+    - E
+    - E
+    - W
+  - Size: 10
+    Row:
+    - N
+    - L
+    - K
+    - B
+    - E
+    - E
+    - T
+    - L
+    - E
+    - E
+  SearchWords:
+  - Word: CROCODILE
+  - Word: LIZARD
+  - Word: TURTLE
+  - Word: IGUANA
+  - Word: COBRA
+  - Word: FROG
+  - Word: BEE
+  - Word: ANT
+  - Word: BEETLE
+  - Word: WASP

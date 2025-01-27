@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e1f9586172a4574da98c60cc3cae32e, type: 3}
+  m_Name: Work3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - P
+    - L
+    - U
+    - M
+    - B
+    - E
+    - R
+    - B
+    - J
+    - Q
+  - Size: 10
+    Row:
+    - Y
+    - Z
+    - C
+    - H
+    - N
+    - N
+    - J
+    - C
+    - K
+    - P
+  - Size: 10
+    Row:
+    - D
+    - P
+    - R
+    - D
+    - U
+    - X
+    - U
+    - H
+    - T
+    - I
+  - Size: 10
+    Row:
+    - E
+    - R
+    - X
+    - G
+    - R
+    - F
+    - N
+    - E
+    - B
+    - L
+  - Size: 10
+    Row:
+    - N
+    - O
+    - F
+    - Z
+    - S
+    - I
+    - A
+    - F
+    - O
+    - O
+  - Size: 10
+    Row:
+    - T
+    - J
+    - C
+    - T
+    - E
+    - M
+    - V
+    - U
+    - F
+    - T
+  - Size: 10
+    Row:
+    - I
+    - E
+    - Y
+    - F
+    - U
+    - L
+    - K
+    - E
+    - I
+    - X
+  - Size: 10
+    Row:
+    - S
+    - C
+    - E
+    - X
+    - T
+    - T
+    - C
+    - W
+    - R
+    - A
+  - Size: 10
+    Row:
+    - T
+    - T
+    - R
+    - N
+    - D
+    - A
+    - O
+    - M
+    - R
+    - E
+  - Size: 10
+    Row:
+    - S
+    - U
+    - R
+    - G
+    - E
+    - O
+    - N
+    - R
+    - W
+    - Y
+  SearchWords:
+  - Word: TEAM
+  - Word: PROJECT
+  - Word: NURSE
+  - Word: CHEF
+  - Word: PILOT
+  - Word: DRIVER
+  - Word: PLUMBER
+  - Word: DENTIST
+  - Word: SURGEON
+  - Word: TUTOR

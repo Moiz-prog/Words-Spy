@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e1f9586172a4574da98c60cc3cae32e, type: 3}
+  m_Name: Countries3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - B
+    - H
+    - U
+    - T
+    - A
+    - N
+    - N
+    - F
+    - B
+    - R
+  - Size: 10
+    Row:
+    - P
+    - E
+    - V
+    - P
+    - E
+    - P
+    - O
+    - D
+    - S
+    - W
+  - Size: 10
+    Row:
+    - A
+    - M
+    - N
+    - F
+    - D
+    - A
+    - M
+    - K
+    - U
+    - D
+  - Size: 10
+    Row:
+    - K
+    - J
+    - L
+    - I
+    - B
+    - Y
+    - A
+    - J
+    - D
+    - I
+  - Size: 10
+    Row:
+    - I
+    - K
+    - Z
+    - O
+    - N
+    - A
+    - L
+    - R
+    - A
+    - H
+  - Size: 10
+    Row:
+    - S
+    - Y
+    - H
+    - K
+    - A
+    - I
+    - A
+    - V
+    - N
+    - K
+  - Size: 10
+    Row:
+    - T
+    - O
+    - G
+    - A
+    - Q
+    - P
+    - W
+    - E
+    - T
+    - E
+  - Size: 10
+    Row:
+    - A
+    - Q
+    - X
+    - A
+    - A
+    - B
+    - I
+    - B
+    - T
+    - N
+  - Size: 10
+    Row:
+    - N
+    - P
+    - Y
+    - J
+    - A
+    - P
+    - A
+    - N
+    - F
+    - Y
+  - Size: 10
+    Row:
+    - Z
+    - A
+    - M
+    - B
+    - I
+    - A
+    - X
+    - N
+    - O
+    - A
+  SearchWords:
+  - Word: BENIN
+  - Word: KENYA
+  - Word: LIBYA
+  - Word: MALAWI
+  - Word: SUDAN
+  - Word: ZAMBIA
+  - Word: BHUTAN
+  - Word: PAKISTAN
+  - Word: JAPAN

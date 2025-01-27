@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e1f9586172a4574da98c60cc3cae32e, type: 3}
+  m_Name: Sport1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 5
+  Rows: 5
+  Board:
+  - Size: 5
+    Row:
+    - N
+    - O
+    - S
+    - B
+    - X
+  - Size: 5
+    Row:
+    - H
+    - E
+    - D
+    - A
+    - G
+  - Size: 5
+    Row:
+    - H
+    - A
+    - T
+    - L
+    - O
+  - Size: 5
+    Row:
+    - Z
+    - E
+    - U
+    - L
+    - A
+  - Size: 5
+    Row:
+    - G
+    - O
+    - L
+    - F
+    - L
+  SearchWords:
+  - Word: BALL
+  - Word: GOLF
+  - Word: NET
+  - Word: GOAL

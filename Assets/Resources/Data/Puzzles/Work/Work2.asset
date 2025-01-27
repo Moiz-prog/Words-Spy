@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e1f9586172a4574da98c60cc3cae32e, type: 3}
+  m_Name: Work2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - T
+    - R
+    - A
+    - I
+    - N
+    - I
+    - N
+    - G
+    - A
+    - J
+  - Size: 10
+    Row:
+    - Y
+    - L
+    - Q
+    - I
+    - I
+    - S
+    - I
+    - O
+    - T
+    - M
+  - Size: 10
+    Row:
+    - B
+    - W
+    - R
+    - I
+    - T
+    - E
+    - R
+    - F
+    - E
+    - E
+  - Size: 10
+    Row:
+    - X
+    - M
+    - T
+    - T
+    - V
+    - M
+    - N
+    - F
+    - A
+    - E
+  - Size: 10
+    Row:
+    - C
+    - A
+    - R
+    - E
+    - E
+    - R
+    - V
+    - I
+    - C
+    - T
+  - Size: 10
+    Row:
+    - P
+    - N
+    - T
+    - J
+    - Y
+    - Y
+    - Q
+    - C
+    - H
+    - I
+  - Size: 10
+    Row:
+    - T
+    - A
+    - N
+    - K
+    - Y
+    - R
+    - L
+    - E
+    - E
+    - N
+  - Size: 10
+    Row:
+    - J
+    - G
+    - J
+    - D
+    - O
+    - C
+    - T
+    - O
+    - R
+    - G
+  - Size: 10
+    Row:
+    - M
+    - E
+    - G
+    - S
+    - A
+    - L
+    - A
+    - R
+    - Y
+    - H
+  - Size: 10
+    Row:
+    - W
+    - R
+    - J
+    - R
+    - D
+    - O
+    - R
+    - N
+    - Z
+    - G
+  SearchWords:
+  - Word: OFFICE
+  - Word: CAREER
+  - Word: MEETING
+  - Word: MANAGER
+  - Word: SALARY
+  - Word: TRAINING
+  - Word: TEACHER
+  - Word: WRITER
+  - Word: DOCTOR

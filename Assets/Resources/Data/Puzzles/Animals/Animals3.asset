@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e1f9586172a4574da98c60cc3cae32e, type: 3}
+  m_Name: Animals3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - K
+    - E
+    - K
+    - E
+    - O
+    - C
+    - R
+    - A
+    - B
+    - E
+  - Size: 10
+    Row:
+    - A
+    - G
+    - X
+    - A
+    - O
+    - P
+    - Q
+    - Y
+    - L
+    - P
+  - Size: 10
+    Row:
+    - N
+    - F
+    - X
+    - G
+    - C
+    - M
+    - Q
+    - E
+    - Z
+    - J
+  - Size: 10
+    Row:
+    - G
+    - K
+    - M
+    - L
+    - Z
+    - D
+    - P
+    - H
+    - O
+    - D
+  - Size: 10
+    Row:
+    - A
+    - C
+    - L
+    - E
+    - G
+    - H
+    - E
+    - R
+    - H
+    - O
+  - Size: 10
+    Row:
+    - R
+    - B
+    - W
+    - B
+    - A
+    - H
+    - N
+    - S
+    - M
+    - V
+  - Size: 10
+    Row:
+    - O
+    - R
+    - S
+    - N
+    - I
+    - R
+    - G
+    - W
+    - A
+    - E
+  - Size: 10
+    Row:
+    - O
+    - A
+    - T
+    - S
+    - O
+    - E
+    - U
+    - O
+    - W
+    - L
+  - Size: 10
+    Row:
+    - T
+    - S
+    - N
+    - A
+    - K
+    - E
+    - I
+    - L
+    - N
+    - G
+  - Size: 10
+    Row:
+    - C
+    - L
+    - C
+    - R
+    - O
+    - W
+    - N
+    - F
+    - A
+    - L
+  SearchWords:
+  - Word: ELEPHANT
+  - Word: WOLF
+  - Word: KANGAROO
+  - Word: EAGLE
+  - Word: OWL
+  - Word: PENGUIN
+  - Word: CROW
+  - Word: DOVE
+  - Word: CRAB
+  - Word: SNAKE

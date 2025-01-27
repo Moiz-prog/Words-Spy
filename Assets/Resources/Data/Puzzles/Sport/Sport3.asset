@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e1f9586172a4574da98c60cc3cae32e, type: 3}
+  m_Name: Sport3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - X
+    - F
+    - E
+    - N
+    - C
+    - I
+    - N
+    - G
+    - N
+    - W
+  - Size: 10
+    Row:
+    - I
+    - N
+    - C
+    - A
+    - D
+    - O
+    - H
+    - M
+    - S
+    - R
+  - Size: 10
+    Row:
+    - K
+    - A
+    - R
+    - A
+    - T
+    - E
+    - R
+    - P
+    - Q
+    - E
+  - Size: 10
+    Row:
+    - J
+    - U
+    - Z
+    - I
+    - I
+    - E
+    - U
+    - M
+    - U
+    - S
+  - Size: 10
+    Row:
+    - U
+    - K
+    - T
+    - N
+    - C
+    - W
+    - G
+    - I
+    - A
+    - T
+  - Size: 10
+    Row:
+    - G
+    - G
+    - N
+    - I
+    - X
+    - O
+    - B
+    - M
+    - S
+    - L
+  - Size: 10
+    Row:
+    - W
+    - B
+    - R
+    - L
+    - Y
+    - W
+    - Y
+    - L
+    - H
+    - I
+  - Size: 10
+    Row:
+    - S
+    - U
+    - R
+    - F
+    - I
+    - N
+    - G
+    - W
+    - E
+    - N
+  - Size: 10
+    Row:
+    - X
+    - M
+    - N
+    - U
+    - C
+    - D
+    - K
+    - H
+    - M
+    - G
+  - Size: 10
+    Row:
+    - T
+    - O
+    - W
+    - T
+    - F
+    - B
+    - J
+    - U
+    - D
+    - O
+  SearchWords:
+  - Word: RUGBY
+  - Word: BOXING
+  - Word: WRESTLING
+  - Word: JUDO
+  - Word: FENCING
+  - Word: SQUASH
+  - Word: SURFING
+  - Word: KARATE

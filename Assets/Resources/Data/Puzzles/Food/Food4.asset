@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e1f9586172a4574da98c60cc3cae32e, type: 3}
+  m_Name: Food4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - O
+    - N
+    - A
+    - C
+    - H
+    - O
+    - S
+    - X
+    - I
+    - L
+  - Size: 10
+    Row:
+    - I
+    - G
+    - U
+    - H
+    - K
+    - Q
+    - V
+    - F
+    - M
+    - P
+  - Size: 10
+    Row:
+    - O
+    - Q
+    - I
+    - I
+    - X
+    - I
+    - Z
+    - E
+    - I
+    - P
+  - Size: 10
+    Row:
+    - X
+    - Z
+    - O
+    - C
+    - S
+    - L
+    - G
+    - M
+    - R
+    - O
+  - Size: 10
+    Row:
+    - T
+    - E
+    - U
+    - K
+    - Q
+    - T
+    - B
+    - D
+    - Z
+    - P
+  - Size: 10
+    Row:
+    - H
+    - G
+    - A
+    - E
+    - C
+    - U
+    - Q
+    - C
+    - L
+    - C
+  - Size: 10
+    Row:
+    - D
+    - G
+    - M
+    - N
+    - O
+    - N
+    - U
+    - T
+    - S
+    - O
+  - Size: 10
+    Row:
+    - B
+    - S
+    - R
+    - K
+    - L
+    - A
+    - M
+    - B
+    - R
+    - R
+  - Size: 10
+    Row:
+    - S
+    - A
+    - L
+    - M
+    - O
+    - N
+    - A
+    - D
+    - L
+    - N
+  - Size: 10
+    Row:
+    - C
+    - K
+    - C
+    - O
+    - O
+    - K
+    - I
+    - E
+    - S
+    - L
+  SearchWords:
+  - Word: CHICKEN
+  - Word: LAMB
+  - Word: TUNA
+  - Word: SALMON
+  - Word: EGGS
+  - Word: POPCORN
+  - Word: NACHOS
+  - Word: NUTS
+  - Word: COOKIES
+  - Word: PIE
